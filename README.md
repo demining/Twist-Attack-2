@@ -1,6 +1,26 @@
 
+# Twist Attack Example №2
+
+---
+
+
+---
+
+
+
+
+
 <figure class="aligncenter"><img decoding="async" src="./Twist Attack example - 2 continue a series of ECC operations to get the value of Private Key to the Bitcoin Wallet - CRYPTO DEEP TECH_files/034-1024x576.png" alt="Twist Attack example #2 continue a series of ECC operations to get the value of the private key to the Bitcoin Wallet" class="wp-image-2357"></figure></div>
 
+
+---
+
+
+* Tutorial: https://youtu.be/pOviZOYItv4
+* Tutorial: https://cryptodeeptech.ru/twist-attack-2
+
+
+---
 
 <hr class="wp-block-separator has-alpha-channel-opacity">
 
