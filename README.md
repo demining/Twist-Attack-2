@@ -16,9 +16,8 @@
 ---
 
 
-* Tutorial: https://youtu.be/fIYYi1kGEnc
-* Tutorial: https://cryptodeeptech.ru/shellshock-attack-on-bitcoin
-
+* Tutorial: https://youtu.be/pOviZOYItv4
+* Tutorial: https://cryptodeeptech.ru/twist-attack-2
 
 ---
 
